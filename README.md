@@ -2,4 +2,4 @@
 
 ![直的切版](./demo/demo.png)
 
-![Demo video](./demo/demo.mp4)
+![Demo video](./demo/demo.gif)
